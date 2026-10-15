@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Nartzz! 👋</h1>
+<h1>NARTZZZ</h1>
 
 <h3>
   Informatics Student | Tech Enthusiast | Future Developer
