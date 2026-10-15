@@ -1,18 +1,18 @@
-<h1 align="center">Hi there, I'm Nartzz! 👋</h1>
+<h1>Hi there, I'm Nartzz! 👋</h1>
 
-<p align="center">
-  <b>Informatics Student | Tech Enthusiast | Future Developer</b>
-</p>
+<h3>
+  Informatics Student | Tech Enthusiast | Future Developer
+</h3>
 
-<p align="center">
-  Seorang mahasiswa Informatika yang terus belajar, berkembang,
-  dan mengeksplorasi dunia teknologi. Tertarik pada pemrograman,
+<p>
+  Seorang mahasiswa Informatika yang terus belajar, berkembang, dan
+  mengeksplorasi dunia teknologi. Tertarik pada pemrograman,
   pengembangan perangkat lunak, dan pemecahan masalah melalui kode.
   Bukan sekadar menulis kode, tetapi menciptakan solusi untuk masa depan. 💻
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nartzz-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nartzz-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -50,19 +50,6 @@
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nartzz-code&show_icons=true&theme=github_dark&hide_border=true" alt="Nartzz GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nartzz-code&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nartzz-code&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
