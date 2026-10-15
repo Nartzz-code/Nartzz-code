@@ -1,5 +1,5 @@
-<h1 align="center">Hai 👋, saya NATHANN</h1>
-<h3 align="center">Seorang pengembang frontend yang bersemangat dari India</h3>
+<h1 align="center">Hi there, Im Nartzz!</h1>
+<h3 align="center">Seorang mahasiswa Informatika yang terus belajar, berkembang, dan mengeksplorasi dunia teknologi. Tertarik pada pemrograman, pengembangan perangkat lunak, dan pemecahan masalah melalui kode. Bukan sekadar menulis kode, tetapi menciptakan solusi untuk masa depan. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nartzz-code&label=Profile%20views&color=0e75b6&style=flat" alt="nartzz-code" /> </p>
 
