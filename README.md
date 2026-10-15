@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi there, I'm Nartzz! 👋</h1>
 
 <p align="center">
