@@ -7,10 +7,6 @@
   Bukan sekadar menulis kode, tetapi menciptakan solusi untuk masa depan. 💻
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nartzz-code&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ---
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
