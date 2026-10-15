@@ -1,17 +1,92 @@
-<h1 align="center">Hi there, Im Nartzz!</h1>
-<h3 align="center">Seorang mahasiswa Informatika yang terus belajar, berkembang, dan mengeksplorasi dunia teknologi. Tertarik pada pemrograman, pengembangan perangkat lunak, dan pemecahan masalah melalui kode. Bukan sekadar menulis kode, tetapi menciptakan solusi untuk masa depan. 💻</h3>
+```html
+<h1 align="center">Hi there, I'm Nartzz! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nartzz-code&label=Profile%20views&color=0e75b6&style=flat" alt="nartzz-code" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>Informatics Student | Tech Enthusiast | Future Developer</b>
 </p>
 
-<h3 align="left">Techologies & Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/> tinggi="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <p><img align="
+<p align="center">
+  Seorang mahasiswa Informatika yang terus belajar, berkembang,
+  dan mengeksplorasi dunia teknologi. Tertarik pada pemrograman,
+  pengembangan perangkat lunak, dan pemecahan masalah melalui kode.
+  Bukan sekadar menulis kode, tetapi menciptakan solusi untuk masa depan. 💻
+</p>
 
-left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nartzz-code&show_icons=true&locale=en&layout=compact" alt="nartzz-code" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nartzz-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nartzz-code&show_icons=true&locale=en" alt="nartzz-code" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nartzz-code&" alt="nartzz-code" /></p>
+<h2>🛠️ Technologies & Tools</h2>
+
+<p>
+  <a href="https://www.arduino.cc/">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nartzz-code&show_icons=true&theme=github_dark&hide_border=true" alt="Nartzz GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nartzz-code&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nartzz-code&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h2>🤝 Let's Connect!</h2>
+
+<p>
+  I'm always open to learning new things, collaborating on projects,
+  and exploring interesting ideas in technology.
+</p>
+
+<p>
+  <a href="https://github.com/nartzz-code">
+    <img src="https://img.shields.io/badge/GitHub-nartzz--code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<h2>✨ Fun Fact</h2>
+
+<p>
+  I enjoy turning ideas into code and learning something new with every project.
+  Every error is a chance to understand how things work better. 🚀
+</p>
+```
