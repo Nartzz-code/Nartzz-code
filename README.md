@@ -1,3 +1,4 @@
+
 <h1>Hi there, I'm Nartzz! 👋</h1>
 
 <h3>
@@ -54,17 +55,16 @@
 
 ---
 
-<h2>🤝 Let's Connect!</h2>
+<h2>🎯 Hobbies & Interests</h2>
 
 <p>
-  I'm always open to learning new things, collaborating on projects,
-  and exploring interesting ideas in technology.
-</p>
-
-<p>
-  <a href="https://github.com/nartzz-code">
-    <img src="https://img.shields.io/badge/GitHub-nartzz--code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
+  🎨 UI/UX Design
+  <br/>
+  🎮 Playing Games
+  <br/>
+  🧊 Solving Rubik's Cube
+  <br/>
+  🏀 Basketball
 </p>
 
 ---
