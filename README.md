@@ -1,4 +1,4 @@
-<h1 align="left">👋 NARTZZZ</h1>
+<h1 align="left">  </h1>
 <h3 align="left">
   Seorang mahasiswa Informatika yang terus belajar, berkembang, dan
   mengeksplorasi dunia teknologi. Tertarik pada pemrograman,
