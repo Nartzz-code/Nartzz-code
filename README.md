@@ -1,4 +1,9 @@
-<h1 align="left"></h1>
+
+<h1 align="left">👋 NARTZZZ</h1>
+
+<h2 align="left">
+  Informatics Student | Tech Enthusiast | Future Developer
+</h2>
 
 <h3 align="left">
   Seorang mahasiswa Informatika yang terus belajar, berkembang, dan
@@ -6,6 +11,10 @@
   pengembangan perangkat lunak, dan pemecahan masalah melalui kode.
   Bukan sekadar menulis kode, tetapi menciptakan solusi untuk masa depan. 💻
 </h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nartzz-code&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -51,13 +60,7 @@
 </p>
 
 ---
-<h2 align="left">✨ Fun Fact</h2>
 
-<h3 align="left">
-  Curious mind, creative ideas, and a passion for building things that make a difference.
-  Always learning, always improving. 🚀✨
-</h3>
-```
 <h2 align="left">🎯 Hobbies & Interests</h2>
 
 <h3 align="left">
@@ -70,3 +73,12 @@
   🏀 Basketball
 </h3>
 
+---
+
+<h2 align="left">✨ Fun Fact</h2>
+
+<h3 align="left">
+  Curious mind, creative ideas, and a passion for building things that make a difference.
+  Always learning, always improving. 🚀✨
+</h3>
+```
