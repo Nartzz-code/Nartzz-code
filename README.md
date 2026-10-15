@@ -1,9 +1,5 @@
 <h1 align="left">👋 NARTZZZ</h1>
 
-<h2 align="left">
-  Informatics Student | Tech Enthusiast | Future Developer
-</h2>
-
 <h3 align="left">
   Seorang mahasiswa Informatika yang terus belajar, berkembang, dan
   mengeksplorasi dunia teknologi. Tertarik pada pemrograman,
