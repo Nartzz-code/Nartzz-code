@@ -55,7 +55,7 @@
 
 ---
 
-<h2 align="left">✨ Fun Fact</h2>
+<h2 align="left">Fun Fact</h2>
 
 <h3 align="left">
   Curious mind, creative ideas, and a passion for building things that make a difference.
