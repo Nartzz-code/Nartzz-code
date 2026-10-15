@@ -1,23 +1,23 @@
-<h1 align="center">👋 NARTZZZ</h1>
+<h1 align="left">👋 NARTZZZ</h1>
 
-<h2 align="center">
+<h2 align="left">
   Informatics Student | Tech Enthusiast | Future Developer
 </h2>
 
-<p align="center">
+<h3 align="left">
   Seorang mahasiswa Informatika yang terus belajar, berkembang, dan
   mengeksplorasi dunia teknologi. Tertarik pada pemrograman,
   pengembangan perangkat lunak, dan pemecahan masalah melalui kode.
   Bukan sekadar menulis kode, tetapi menciptakan solusi untuk masa depan. 💻
-</p>
+</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=nartzz-code&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-<h2>🛠️ Technologies & Tools</h2>
+<h2 align="left">🛠️ Technologies & Tools</h2>
 
 <p align="left">
   <a href="https://www.arduino.cc/">
@@ -60,9 +60,9 @@
 
 ---
 
-<h2>🎯 Hobbies & Interests</h2>
+<h2 align="left">🎯 Hobbies & Interests</h2>
 
-<h3>
+<h3 align="left">
   🎨 UI/UX Design
   <br/>
   🎮 Playing Games
@@ -74,9 +74,9 @@
 
 ---
 
-<h2>✨ Fun Fact</h2>
+<h2 align="left">✨ Fun Fact</h2>
 
-<h3>
+<h3 align="left">
   Curious mind, creative ideas, and a passion for building things that make a difference.
   Always learning, always improving. 🚀✨
 </h3>
