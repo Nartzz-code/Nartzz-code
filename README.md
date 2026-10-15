@@ -61,6 +61,13 @@
 
 ---
 
+<h2 align="left">✨ Fun Fact</h2>
+
+<h3 align="left">
+  Curious mind, creative ideas, and a passion for building things that make a difference.
+  Always learning, always improving. 🚀✨
+</h3>
+```
 <h2 align="left">🎯 Hobbies & Interests</h2>
 
 <h3 align="left">
@@ -74,11 +81,3 @@
 </h3>
 
 ---
-
-<h2 align="left">✨ Fun Fact</h2>
-
-<h3 align="left">
-  Curious mind, creative ideas, and a passion for building things that make a difference.
-  Always learning, always improving. 🚀✨
-</h3>
-```
