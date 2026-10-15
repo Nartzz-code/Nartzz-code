@@ -77,7 +77,6 @@
 <h2>✨ Fun Fact</h2>
 
 <p>
-  I enjoy turning ideas into code and learning something new with every project.
-  Every error is a chance to understand how things work better. 🚀
+  Curious mind, creative ideas, and a passion for building things that make a difference. Always learning, always improving. 🚀✨
 </p>
 ```
